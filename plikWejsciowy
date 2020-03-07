@@ -1,0 +1,12 @@
+W tym stogu siana jest jedna igła
+#define igła szpilka
+W tym stogu siana jest jedna igła
+#define igła nitka
+
+
+W tym stogu siana jest jedna igła
+Spróbujmy z define w połowie zdania #define zdanie sentencja
+
+Wspaniale wypowiedziane zdanie
+#define MOJE_ZDANIE "Litwo, Ojczyzno moja"
+Mickiewicz w swym dziele napisał MOJE_ZDANIE.
